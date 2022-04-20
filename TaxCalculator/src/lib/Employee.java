@@ -19,8 +19,12 @@ public class Employee {
 	private int monthWorkingInYear;
 	
 	private boolean isForeigner;
+<<<<<<< Updated upstream
 	private Gender gender;
 	private enum gender{
+=======
+	private enum{
+>>>>>>> Stashed changes
 		cowo,
 		cewe
 	}
