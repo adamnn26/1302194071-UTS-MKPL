@@ -19,11 +19,11 @@ public class Employee {
 	private int monthWorkingInYear;
 	
 	private boolean isForeigner;
+	private Gender gender;
 	private enum gender{
 		cowo,
 		cewe
 	}
-	private Gender gender;
 	
 	private int monthlySalary;
 	private int otherMonthlyIncome;
