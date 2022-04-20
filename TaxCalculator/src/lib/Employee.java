@@ -5,7 +5,7 @@ import java.time.Month;
 import java.util.LinkedList;
 import java.util.List;
 
-public class Employee {
+public class Employee extends Person {
 
 	private String employeeId;
 	private String firstName;
