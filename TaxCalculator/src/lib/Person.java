@@ -1,7 +1,7 @@
 package lib;
 
 public class Person {
-    private String spouseName;
+    private String spouseName
 	private String spouseIdNumber;
 
     public void setSpouse(String spouseName, String spouseIdNumber) {
